@@ -21,12 +21,14 @@
   <h3 align="center">AI Assisted Image-Generated Yonkoma Experiment</h3>
 
   <p align="center">
-    Assignment 01, VIZA 626 Generative Art and Design (Spring 2025)
+    This experiment used prompt-narrowing to generate desirable images utilizing OpenAI's DALL-E 3 to visually represent the original poem,
+    <br />
+    Fall of the Mourning Star
     <br />
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://britainthomas32.wixsite.com/portfolio/projects">Britain Thomas</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
