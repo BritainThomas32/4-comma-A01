@@ -52,11 +52,6 @@ Figure 2. Experiment Workflow, Is a diagram of the process of utilizing prompt-n
 
 The concept of generating a Yonkoma through AI image generation, a poetic narrative representing each panel, along with referencing my work, inspired by testing an effective strategy for AI concept art generation. This medium and method to generate the concept art and yonkoma was formulated based on utilizing the speed of AI image generation. The experiment focused on generating images, through testing the effectiveness of prompt-narrowing when working with OpenAI's DALL-E 3 image generation model. The experiment tested was based on the conclusions of the AGIQA-3K AI-Generated Image Quality Assessment finding that prompt-narrowing gave desirable results for image generation \[1\]. The purpose of AI to generate the images of the panels was to reduce labor for a similar desired output as many AI image generation models have proved to speed up the artwork creation process for stylized content \[2\]. The results of the experiment regarding DALL-E 3 image generation proved an efficiency when prompt-narrowing was introduced in generating the yonkoma panels, except for text generation to be consistent \[3\]. Through the use of AI image generation the Yonkoma Experiment to create images to fit the narrative of the poem was established and tested: The results proved desirable.
 
-### How to use subsection:
-
-### Built With
-
-### This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 ## Methodology
 
