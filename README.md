@@ -40,19 +40,17 @@ Figure 1. Fall of the Mourning Star, Is a Yonkoma representing the birth and dea
 
 <!-- Abstract -->
 ## Abstract
+
 The steps taken to generate this yonkoma focused on prompt-narrowing when generating desirable images. The experiment's goal was to represent an original poem visually. The importance of testing prompt-narrowing was to apply effective strategies to form desirable generated images. The results of this experiment proved to be efficient and effective.
 
 [![4-comma][images-fig2]](https://example.com)
 
-Figure 2. Related works in this domain. 
+Figure 2. Experiment Workflow, Is a diagram of the process of utilizing prompt-narrowing to produce the yonkoma Fall of the Mourning Star.
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-Your Introduction and Related Works here: 200 words here.
-
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
+The concept of generating a Yonkoma through AI image generation, a poetic narrative representing each panel, along with referencing my work, inspired by testing an effective strategy for AI concept art generation. This medium and method to generate the concept art and yonkoma was formulated based on utilizing the speed of AI image generation. The experiment focused on generating images, through testing the effectiveness of prompt-narrowing when working with OpenAI's DALL-E 3 image generation model. The experiment tested was based on the conclusions of the AGIQA-3K AI-Generated Image Quality Assessment finding that prompt-narrowing gave desirable results for image generation \[1\]. The purpose of AI to generate the images of the panels was to reduce labor for a similar desired output as many AI image generation models have proved to speed up the artwork creation process for stylized content \[2\]. The results of the experiment regarding DALL-E 3 image generation proved an efficiency when prompt-narrowing was introduced in generating the yonkoma panels, except for text generation to be consistent \[3\]. Through the use of AI image generation the Yonkoma Experiment to create images to fit the narrative of the poem was established and tested: The results proved desirable.
 
 How to use subsection:
 
@@ -62,7 +60,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Methodology
 
-The process of generating images utilizing OpenAI's DALL·E for the Yonkoma took on over twenty iterations for initial tests in prompt refinement. Through refinement, the prompts narrowed down the color, theme, and style that was desired for the final output to generate each image. The artistic expression was generated and refined through minimalistic 90's logos for color, the theme is in reference to my body of work of shader creation, named Nebula, and a focus on minimalism was to reduce the influence of the initial test for further refinement. After the initial tests, it was concluded that after more than seven iterations the desired output became more degenerative than desirable. The final generation was then prompted with the blend of 80's logos with Caravaggio's painting style of light and dark to get the desirable aesthetic. In figure 1: The image in panel one only one iteration to complete, panel two took three, panel three took four, and panel four took five: Generated in that order for a grand total of thirteen iterations. The captions were manually created as DALL-E 3 struggled to generate consistent text, and after six generations of no favorable results, the captions were delegated to be manually created.
+The process of generating images utilizing OpenAI's DALL·E for the Yonkoma took on over twenty iterations for initial tests in prompt refinement. Through refinement, the prompts narrowed down the color, theme, and style that was desired for the final output to generate each image. The artistic expression was generated and refined through minimalist 90's logos for color, the theme is in reference to my body of work of shader development, named Nebula, and a focus on minimalism to reduce influence of the initial test for refinement. After the initial tests, it was concluded after more than seven iterations the desired output became more degenerative than desirable. The final generation was prompted by a blend of 80's logos with Caravaggio's painting style of light and dark to generate the aesthetic. In figure 1: Panel one only took one iteration to complete, panel two took three, panel three took four, and panel four took five: Generated in that order for a grand total of thirteen iterations. The captions were manually created as DALL-E 3 struggled to generate consistent text, with six generations of unfavorable results, the captions were manually created. The workflow seen in figure 2 showcases the phases of the experiment.
 
 [![4-comma][images-fig3]](https://example.com)
 
@@ -73,6 +71,7 @@ Figure 3. Methodology and Workflow: This figure should provide a comprehensive o
 Figure 4. description for Figure 5
 
 ## Result and Future Work
+
 The results of the experiment represented the poem effectively with desirable visuals with consistent elements between panels cohesively. The efficiency of prompt-narrowing gave the lines in the poem more weight in the desirable direction of the aesthetic, theme, and overall visual clarity. A future change to the experiment would combine prompt-narrowing with AI generated prompt templates to optimize the prompt creation process. For future projects this experiment gives valuable insight to the reliability of OpenAI's DALL-E 3 image generation when paired with prompt-narrowing, and will be an important stepping stone towards optimizing the prompt generation towards desirable AI image generation.
 
 [![4-comma][images-fig5]](https://example.com)
