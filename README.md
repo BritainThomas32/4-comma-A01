@@ -25,7 +25,7 @@
     <br />
     Fall of the Mourning Star
     <br />
-    <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/BritainThomas32/4-comma-A01/blob/main/pdf/a1_britainThomas.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://britainthomas32.wixsite.com/portfolio/projects">Britain Thomas</a>
@@ -124,9 +124,6 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig1]: images/fig1.png
 [images-fig2]: images/fig2.png
 [images-fig3]: images/fig3.png
-[images-fig4]: images/fig4.png
-[images-fig5]: images/fig5.png
-[images-fig6]: images/fig6.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
