@@ -55,11 +55,15 @@ The concept of generating a Yonkoma through AI image generation, a poetic narrat
 
 ## Methodology
 
-The process of generating images utilizing OpenAI's DALL·E for the Yonkoma took on over twenty iterations for initial tests in prompt refinement. Through refinement, the prompts narrowed down the color, theme, and style that was desired for the final output to generate each image. The artistic expression was generated and refined through minimalist 90's logos for color, the theme is in reference to my body of work of shader development, named Nebula, and a focus on minimalism to reduce influence of the initial test for refinement. After the initial tests, it was concluded after more than seven iterations the desired output became more degenerative than desirable. The final generation was prompted by a blend of 80's logos with Caravaggio's painting style of light and dark to generate the aesthetic. In figure 1: Panel one only took one iteration to complete, panel two took three, panel three took four, and panel four took five: Generated in order for a total of thirteen iterations. The captions were manually created as DALL-E 3 struggled to generate consistent text, with six generations of unfavorable results, the captions were manually created. The workflow seen in Figure 2 and 3 showcases the phases of the experiment.
+The process of generating images utilizing OpenAI's DALL·E for the Yonkoma took on over twenty iterations for initial tests in prompt refinement. Through refinement, the prompts narrowed down the color, theme, and style that was desired for the final output to generate each image. The artistic expression was generated and refined through minimalist 90's logos for color, the theme is in reference to my body of work of shader development, named Nebula, and a focus on minimalism to reduce influence of the initial test for refinement. After the initial tests, it was concluded after more than seven iterations the desired output became more degenerative than desirable. The final generation was prompted by a blend of 80's logos with Caravaggio's painting style of light and dark to generate the aesthetic. In figure 1: Panel one only took one iteration to complete, panel two took three, panel three took four, and panel four took five: Generated in order for a total of thirteen iterations. The captions were manually created as DALL-E struggled to generate consistent text, with six generations of unfavorable results, the captions were manually created. The workflow seen in Figure 2, 3, and 4 showcases the phases of the experiment.
 
 [![4-comma][images-fig3]](https://example.com)
 
 Figure 3. A diagram showing the iterative process of achieving the desirable images after prompt-narrowing was applied.
+
+[![4-comma][images-fig4]](https://example.com)
+
+Figure 4. A graph showing the desirability of the initial tests to generate the desired aesthetic, color, balance, and theme of the final generated images using AI Generated Images sourced from OpenAI's DALL-E 3.
 
 ## Result and Future Work
 
